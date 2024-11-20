@@ -33,12 +33,12 @@ A modern platform that merges AI workflow technology with collective consciousne
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/lalomorales22/project-vesperance.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd vesperence
+cd project-vesperence
 ```
 
 3. Install dependencies:
