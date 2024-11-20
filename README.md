@@ -1,5 +1,6 @@
 # Project Vesperance
-<img width="1070" alt="Screenshot 2024-11-19 at 8 35 02 PM" src="https://github.com/user-attachments/assets/b1c05d7e-0fb4-497c-8d2a-3a15482d0d7b">
+<img width="1062" alt="Screenshot 2024-11-19 at 8 39 49 PM" src="https://github.com/user-attachments/assets/c3a2dbd4-0618-46f9-9468-24fe01b52d9d">
+
 
 A modern platform that merges AI workflow technology with collective consciousness, enabling users to build, share, and monetize AI workflows while fostering community collaboration.
 
